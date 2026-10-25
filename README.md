@@ -1,6 +1,6 @@
 # Hi, I'm Bruno
 
-Senior engineer and tech lead in Zagreb, Croatia. Nearly ten years of production .NET and React systems that quietly run businesses. Lately I spend my days coordinating several AI coding agents at once, keeping a ledger of what each one did, and reviewing their work before anything merges. People ask if this is how Skynet starts. Possibly. But mine has test gates, a file scope per agent, and nothing merges without a human typing "go", so Judgment Day is currently blocked on code review.
+Senior engineer and tech lead in Zagreb, Croatia. Nearly ten years of production .NET and various frontend systems that quietly run businesses. Lately I spend my days coordinating several AI coding agents at once, keeping a ledger of what each one did, and reviewing their work before anything merges. People ask if this is how Skynet starts. Possibly. But mine has test gates, a file scope per agent, and nothing merges without a human typing "go", so Judgment Day is currently blocked on code review.
 
 ## What I work with
 
