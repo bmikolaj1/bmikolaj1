@@ -1,6 +1,6 @@
 # Hi, I'm Bruno
 
-Senior software engineer and tech lead in Zagreb, Croatia. Nearly ten years of production web applications, mostly .NET/C# with React, TypeScript and Angular. Led the move of a 20-year-old desktop ERP to a cloud web platform on Azure, and carried a payment microservice to live real-money transactions.
+Senior engineer and tech lead in Zagreb, Croatia. Nearly ten years of production .NET and React systems that quietly run businesses. Lately I spend my days coordinating several AI coding agents at once, keeping a ledger of what each one did, and reviewing their work before anything merges. People ask if this is how Skynet starts. Possibly. But mine has test gates, a file scope per agent, and nothing merges without a human typing "go", so Judgment Day is currently blocked on code review.
 
 ## What I work with
 
@@ -14,7 +14,7 @@ Senior software engineer and tech lead in Zagreb, Croatia. Nearly ten years of p
 
 ## Shipped solo
 
-Two production Android apps, designed, built and released end to end with the workflow above. Store links on request.
+Two production Android apps (Flutter), designed, built and released end to end with the workflow above. Store links on request.
 
 ## Contact
 
