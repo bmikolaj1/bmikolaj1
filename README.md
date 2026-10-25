@@ -14,7 +14,7 @@ Senior software engineer and tech lead in Zagreb, Croatia. Nearly ten years of p
 
 ## Shipped solo
 
-Two production Android apps (Flutter), designed, built and released end to end with the workflow above. Store links on request.
+Two production Android apps, designed, built and released end to end with the workflow above. Store links on request.
 
 ## Contact
 
